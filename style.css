@@ -22,6 +22,7 @@ html{
 
 }
 
+
 .Explore{
     position: absolute;
     font-size: 80px;
@@ -97,7 +98,18 @@ html{
     transition: text-decoration 0.5s;
 }
 
-.copyup2:hover{
+.copyup3{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: wheat;
+    margin-left: 170vh;
+    display: flexbox;
+    margin-top: 4vh;
+    text-decoration: none;
+
+    transition: text-decoration 0.5s;
+}
+.copyup3:hover{
     cursor: pointer;
     text-decoration: underline;
     
@@ -130,9 +142,10 @@ html{
     height: 70vh;
     margin-top: 20vh;
     margin-left: 55vh;
-    background-color: rgba(20, 20, 20, 0.4);
+    background-color: rgba(20, 20, 20, 0.6);
     border-radius: 5px;
     display: inline;
+
 }
 
 footer {
@@ -164,4 +177,11 @@ button:hover{
 
 .pExt{
     color: white;
+    font-size: 26px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.resList{
+    
+    text-decoration: none;
 }
