@@ -140,23 +140,6 @@ html{
     transition: text-decoration 0.5s;
 }
 
-.copyup3{
-    position: absolute;
-    font-family: Arial, Helvetica, sans-serif;
-    color: wheat;
-    margin-left: 170vh;
-    display: flexbox;
-    margin-top: 4vh;
-    text-decoration: none;
-
-    transition: text-decoration 0.5s;
-}
-.copyup3:hover{
-    cursor: pointer;
-    text-decoration: underline;
-    
-    transition: text-decoration 0.5s;
-}
 
 ::-webkit-scrollbar {
     width: 0em;
